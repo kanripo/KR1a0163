@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 乾坤鑿度
-#+DATE: 2015-09-23 09:35:45
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 22:01:08.396628
+#+PROPERTY: ID KR1a0163
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷下
 <pb:KR1a0163_WYG_002-1a>¶
 欽定四庫全書¶
 　乾坤鑿度卷下¶
@@ -177,4 +179,3 @@
 (曰不讀易不/可為宰相)¶
 舉先易而後依孔子　附於後是代代書之後人書之¶
 不得為先文也¶
-
